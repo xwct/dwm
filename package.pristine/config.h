@@ -1,1 +1,0 @@
-/home/vm/dwm/config.h
